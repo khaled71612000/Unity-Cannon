@@ -1,10 +1,10 @@
-# Unity Canon
+# Unity Cannon
 
-**Unity Canon** is a project developed using the Unity game engine that demonstrates a canon shooting game. This project highlights advanced physics simulations, player control, and interactive gameplay mechanics within Unity.
+**Unity Cannon** is a project developed using the Unity game engine that demonstrates a canon shooting game. This project highlights advanced physics simulations, player control, and interactive gameplay mechanics within Unity.
 
 ### Scripts
 
-#### CanonController.cs
+#### CannonController.cs
 - **Shooting Mechanics:** Manages the shooting functionality, including trajectory calculations and projectile launching.
 - **Player Input:** Handles player input to control the canon's aiming and firing.
 
