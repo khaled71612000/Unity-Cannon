@@ -1,4 +1,4 @@
-a# Unity Canon
+# Unity Canon
 
 **Unity Canon** is a project developed using the Unity game engine that demonstrates a canon shooting game. This project highlights advanced physics simulations, player control, and interactive gameplay mechanics within Unity.
 
